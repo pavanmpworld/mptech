@@ -1,10 +1,6 @@
-Import OS
+Import os
 
 #OS imported
-print(os.getcdw)
-
-
-#OS installation and configured
-print(os instalation and configerd)
+print(os.uname())
 
 
